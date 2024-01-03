@@ -1,6 +1,6 @@
 # petpaws
 
-A new Flutter project.
+Bu proje hayvan sahiplendirme sürecinin kolaylaştırılması için flutter kullanılarak yapılmıştır. PetPaws api projesi çalıştırılıp mssql ile bağlantısı yapıldıktan sonra kullanılması gerekmektedir.
 
 ## Getting Started
 
