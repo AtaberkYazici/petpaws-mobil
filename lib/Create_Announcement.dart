@@ -28,7 +28,7 @@ class _CreateAnnouncementState extends State<CreateAnnouncement> {
 
   List<AnimalVaccines> _vaccines = [
     AnimalVaccines(name: "kuduz"),
-    AnimalVaccines(name: "hepatit"),
+    AnimalVaccines(name: "parazit"),
     AnimalVaccines(name: "karma")
   ];
 
