@@ -146,7 +146,7 @@ class _SignUpScreenState extends State<SignUpScreen> {
     if (_formKey.currentState!.validate()) {
       _formKey.currentState!.save();
       userModel.imagePath = modifiedUrl!;
-      userModel.password = "";
+      userModel.password = "a";
       userModel.userId = 0;
       print(userModel);
       await RemoteService().createUser(userModel);
