@@ -29,7 +29,7 @@ class _EditAnnouncementWidgetState extends State<EditAnnouncementWidget> {
 
   List<AnimalVaccines> _vaccines = [
     AnimalVaccines(name: "kuduz"),
-    AnimalVaccines(name: "hepatit"),
+    AnimalVaccines(name: "parazit"),
     AnimalVaccines(name: "karma")
   ];
   late int? localAnimalId;
